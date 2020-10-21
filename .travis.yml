@@ -1,4 +1,5 @@
 # Pull in python for access to pip for hererocks
+arch: ppc64le
 language: python
 
 sudo: false
